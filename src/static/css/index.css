@@ -1,0 +1,8 @@
+.player {
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  height: 76px;
+  background-color: #262626;
+  position: fixed;
+}
